@@ -1,6 +1,6 @@
 # Hex2Bin
 
-Command line tool to convert a hexadecimal string to a binary format. Can be used for dumping decimal payloads to binary files, i.e. executables in malware.
+Command line tool to convert a hexadecimal string to a binary format. Can be used for dumping hex encoded payloads to binary files, i.e. executables in malware.
 
 Syntax: Hex2Bin INFILE OUTFILE
 
